@@ -27,7 +27,7 @@ Team risk can be minimized by recruiting team members carefully.
 
 Understanding government policies play an important role as they keep on changing
 
-Besides changing they vary from province to province. There was a tax implemented by the Indian government in July 2107 which had the greatest impact on the trucking business than any other logistics. The tax is called Goods and Services Tax(GST). So such immerging policies by the government in the society affects the venture very much. This also impacts the economic growth. This is a very unpredictable risk because one never knows when and why the government changes the rules.
+Besides changing, they vary from province to province. There was a tax implemented by the Indian government in July 2107 which had the greatest impact on the trucking business than any other logistics. The tax is called Goods and Services Tax(GST). So such immerging policies by the government in the society affects the venture very much. This also impacts the economic growth. This is a very unpredictable risk because one never knows when and why the government changes the rules.
 
 For the betterment of this venture and reducing this risk, one should keep track of the government policies. To avoid the penalties and tickets. It is mandatory to drive a vehicle with all the rules and regulations in order to avoid. It may be a lucrative business to start.
 
