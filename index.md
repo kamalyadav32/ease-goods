@@ -77,7 +77,7 @@ sections:
 layout: landing
 menu:
   secondary:
-    weight: 2
+    weight: 1
   main:
     weight: 1
 

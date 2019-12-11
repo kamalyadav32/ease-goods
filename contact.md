@@ -11,7 +11,9 @@ sections:
   bg: gray
 layout: landing
 menu:
+  main:
+    weight: 7
   secondary:
-    weight: 1
+    weight: 6
 
 ---

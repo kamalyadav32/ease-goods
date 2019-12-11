@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   secondary:
-    weight: 5
+    weight: 4
   main:
     weight: 5
 

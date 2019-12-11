@@ -5,7 +5,7 @@ subtitle: ''
 img_path: ''
 menu:
   secondary:
-    weight: 4
+    weight: 3
     title: Risk
   main:
     weight: 4
