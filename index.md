@@ -7,7 +7,7 @@ sections:
   title: Ease Goods - lightening fast delivery
   content: Ease Goods is designed as a platform carter for those who are seeking to
     transport goods for a less.
-  image: "/images/web1.gif"
+  image: "/images/web.jpg"
   actions:
   - label: Learn More
     url: "/features"
