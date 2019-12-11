@@ -18,13 +18,6 @@ sections:
   subtitle: Risk-Marketing-Finance
   bg: gray
   featureslist:
-  - title: Finance
-    content: Making a business on paper is an easy task but in reality, it takes more
-      time and effort. For starting the business I’ll need approximately $450,000.
-    image: "/images/web7.jpg"
-    actions:
-    - label: learn more
-      url: "/Finance"
   - title: Vision
     content: Our vision is to provide our customers with a hassle-free, Fast, Reliable,
       Technology efficient comfortable transportation environment, and also giving
@@ -51,9 +44,19 @@ sections:
     - label: Learn More
       url: "/Risks"
   - title: Marketing
-    content: ''
-    image: ''
-    actions: []
+    content: Social Media Advertisement Social media offers excellent opportunities
+      to engage your customers and build trust by showing the personal side...
+    image: "/images/web8.jpg"
+    actions:
+    - label: Learn More
+      url: "/marketing"
+  - title: Finance
+    content: Making a business on paper is an easy task but in reality, it takes more
+      time and effort. For starting the business I’ll need approximately $450,000.
+    image: "/images/web7.jpg"
+    actions:
+    - label: learn more
+      url: "/Finance"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
