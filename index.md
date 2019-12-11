@@ -10,7 +10,7 @@ sections:
   image: "/images/web1.gif"
   actions:
   - label: Learn More
-    url: "/features"
+    url: "/vision"
 - type: section_features
   template: section_features
   section_id: features
