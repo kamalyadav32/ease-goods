@@ -35,7 +35,7 @@ sections:
     image: "/images/web5.jpeg"
     actions:
     - label: Learn More
-      url: "/strategy"
+      url: "/strategies"
   - title: Risk
     content: The trucking industry is rapidly growing, but there are some loopholes
       and risks involved that need to be minimized to make business grow.
