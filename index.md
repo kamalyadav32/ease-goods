@@ -14,15 +14,15 @@ sections:
 - type: section_features
   template: section_features
   section_id: features
-  title: Features
-  subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-    quis lorem malesuada luctus.
-  bg: gray
+  title: VISION-STRATEGY
+  subtitle: Risk-Marketing-Finance
+  bg: white
   featureslist:
-  - title: The Best Feature of Your Services
-    content: Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed aliquet
-      luctus, lorem risus volutpat dolor, nec dignissim diam neque consequat ex.
-    image: images/feature1.png
+  - title: Vision
+    content: Our vision is to provide our customers with a hassle-free, Fast, Reliable,
+      Technology efficient comfortable transportation environment, and also giving
+      value as a priority to customer satisfaction.
+    image: "/images/web3.jpeg"
     actions:
     - label: Learn More
       url: "/features"
