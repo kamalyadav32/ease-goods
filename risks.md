@@ -4,6 +4,9 @@ title: Risks
 subtitle: ''
 img_path: ''
 menu:
+  secondary:
+    weight: 4
+    title: Risk
   main:
     weight: 4
 

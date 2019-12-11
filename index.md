@@ -76,6 +76,8 @@ sections:
   bg: gray
 layout: landing
 menu:
+  secondary:
+    weight: 2
   main:
     weight: 1
 

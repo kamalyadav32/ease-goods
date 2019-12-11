@@ -4,6 +4,9 @@ title: vision
 subtitle: " Time is money; let us help save you both."
 img_path: "/images/logistics simplified.jpg"
 menu:
+  secondary:
+    weight: 3
+    title: 'vision '
   main:
     weight: 2
     title: 'vision '

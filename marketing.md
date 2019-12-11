@@ -4,6 +4,8 @@ title: Marketing
 subtitle: ''
 img_path: ''
 menu:
+  secondary:
+    weight: 5
   main:
     weight: 5
 
