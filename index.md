@@ -16,7 +16,7 @@ sections:
   section_id: features
   title: VISION-STRATEGY
   subtitle: Risk-Marketing-Finance
-  bg: white
+  bg: gray
   featureslist:
   - title: Vision
     content: Our vision is to provide our customers with a hassle-free, Fast, Reliable,
@@ -25,7 +25,7 @@ sections:
     image: "/images/web3.jpeg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/vision"
   - title: Strategy
     content: |-
       Ease goods will fall under Differentiation strategic approach.
