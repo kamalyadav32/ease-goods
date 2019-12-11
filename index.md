@@ -26,13 +26,16 @@ sections:
     actions:
     - label: Learn More
       url: "/features"
-  - title: Awesome Feature of Your Services
-    content: Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-      sapien interdum luctus. Cras rhoncus condimentum metus sit amet auctor.
-    image: images/feature2.png
+  - title: Strategy
+    content: |-
+      Ease goods will fall under Differentiation strategic approach.
+
+      * Distinctive competencies
+      * Market segmentation
+    image: "/images/web5.jpeg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/Strategy"
   - title: Cool Feature of Your Services
     content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
       venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
