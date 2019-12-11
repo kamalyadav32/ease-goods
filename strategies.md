@@ -1,6 +1,6 @@
 ---
 layout: page
-title: strategies
+title: strategy
 subtitle: ''
 img_path: ''
 menu:
