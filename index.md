@@ -36,13 +36,13 @@ sections:
     actions:
     - label: Learn More
       url: "/Strategy"
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/feature3.png
+  - title: Risk
+    content: The trucking industry is rapidly growing, but there are some loopholes
+      and risks involved that need to be minimized to make business grow.
+    image: "/images/web6.jpg"
     actions:
     - label: Learn More
-      url: "/features"
+      url: "/Risks"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
