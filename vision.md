@@ -3,6 +3,10 @@ layout: page
 title: vision
 subtitle: " Time is money; let us help save you both."
 img_path: "/images/logistics simplified.jpg"
+menu:
+  main:
+    weight: 2
+    title: 'vision '
 
 ---
 Our vision is to provide our customers with a hassle-free, Fast, Reliable, Technology efficient, comfortable transportation environment, and also giving value as a priority to customer satisfaction.

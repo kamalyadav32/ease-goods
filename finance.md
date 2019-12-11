@@ -3,6 +3,9 @@ layout: page
 title: 'Finance '
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 6
 
 ---
 Making a business on paper is an easy task but in reality it takes more time and efforts.

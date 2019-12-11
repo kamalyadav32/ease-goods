@@ -3,6 +3,9 @@ layout: page
 title: Marketing
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 5
 
 ---
 Ease Goods is designed as a platform carter for those who are seeking to transport goods for a less. Basically Ease goods will target young, educated and digitally evolved customers and on side by side target big businesses like Amazon and other big industrial who need transportation for supply of raw material or product delivery. Such highly audience makes Ease good an attractive platform for marketers to target the ever-evolving online consumers

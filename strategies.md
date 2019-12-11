@@ -3,6 +3,10 @@ layout: page
 title: strategies
 subtitle: ''
 img_path: ''
+menu:
+  main:
+    weight: 3
+    title: 'Stratagies '
 
 ---
 Ease goods will fall under Differentiation strategic approach by following different factors as
