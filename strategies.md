@@ -6,7 +6,7 @@ img_path: ''
 menu:
   main:
     weight: 3
-    title: 'Stratagies '
+    title: 'Strategy '
 
 ---
 Ease goods will fall under Differentiation strategic approach by following different factors as
