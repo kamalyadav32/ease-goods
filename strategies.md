@@ -2,7 +2,7 @@
 layout: page
 title: strategy
 subtitle: ''
-img_path: ''
+img_path: "/images/10_thumb.jpg"
 menu:
   main:
     weight: 3
