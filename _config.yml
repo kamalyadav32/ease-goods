@@ -2,7 +2,7 @@
 title: 'Ease Goods '
 baseurl: "/"
 permalink: "/:title/"
-palette: blue
+palette: orange
 header:
   title: Ease Goods
   logo_img: "/images/Screenshot 2019-12-10 at 11.04.07 PM.png"
