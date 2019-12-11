@@ -126,11 +126,7 @@ Below is the roughly estimated annual expenses.
 
 <tr>
 
-<td> </td>
-
-<td>Grand Total </td>
-
-<td> </td>
+<td colspan="3">Grand Total</td>
 
 <td> $427,000 </td>
 
