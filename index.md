@@ -55,8 +55,8 @@ sections:
       time and effort. For starting the business I’ll need approximately $450,000.
     image: "/images/web7.jpg"
     actions:
-    - label: learn more
-      url: "/Finance"
+    - label: Learn More
+      url: "/finance"
 - type: section_reviews
   template: section_reviews
   section_id: reviews
