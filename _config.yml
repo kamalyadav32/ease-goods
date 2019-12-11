@@ -4,13 +4,11 @@ baseurl: "/"
 permalink: "/:title/"
 palette: purple
 header:
-  title: Azimuth
+  title: Ease Goods
   logo_img: "/images/Screenshot 2019-12-10 at 11.04.07 PM.png"
   has_nav: true
   menu:
-    actions:
-    - label: Sign Up
-      url: "/signup"
+    actions: []
 footer:
   logo_img: images/logo_alt.png
   tagline: SaaS theme by Stackbit
