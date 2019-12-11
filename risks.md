@@ -2,7 +2,7 @@
 layout: page
 title: Risks
 subtitle: ''
-img_path: ''
+img_path: "/images/WEB10.jpg"
 menu:
   secondary:
     weight: 3
