@@ -11,15 +11,15 @@ header:
     actions: []
 footer:
   logo_img: "/images/Screenshot 2019-12-10 at 11.04.07 PM.png"
-  tagline: SaaS theme by Stackbit
+  tagline: Ease Goods
   has_nav: true
-  nav_title: Company
+  nav_title: Important links
   has_social: true
   social_title: Community
   has_subscribe: true
   subscribe_title: Subscribe
-  subscribe_content: Stay up to date with our latest developments.
-  content: "&copy; Stackbit. All rights reserved."
+  subscribe_content: Stay up to date with our latest Deals.
+  content: D&D by KAMAL YADAV &copy; EaseGoods. All rights reserved.
   links:
   - text: Made with Stackbit
     url: https://www.stackbit.com
