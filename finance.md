@@ -48,7 +48,7 @@ Below is the roughly estimated annual expenses.
 
 <td>Website Maintenances</td>
 
-</td></td>
+<td></td>
 
 <td>$2000</td>
 
