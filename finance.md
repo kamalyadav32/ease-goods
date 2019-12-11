@@ -2,7 +2,7 @@
 layout: page
 title: 'Finance '
 subtitle: ''
-img_path: ''
+img_path: "/images/WEB9.jpg"
 menu:
   secondary:
     weight: 5
