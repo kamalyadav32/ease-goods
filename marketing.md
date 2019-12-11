@@ -2,7 +2,7 @@
 layout: page
 title: Marketing
 subtitle: ''
-img_path: ''
+img_path: "/images/8.jpg"
 menu:
   secondary:
     weight: 4
